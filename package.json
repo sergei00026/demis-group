@@ -1,0 +1,16 @@
+{
+	"name": "Demis-Group",
+	"private": true,
+	"version": "0.0.1",
+	"type": "module",
+	"scripts": {
+		"dev": "vite",
+		"build": "vite build",
+		"preview": "vite preview"
+	},
+	"devDependencies": {
+		"sass": "^1.77.8",
+		"typescript": "^5.2.2",
+		"vite": "^5.3.4"
+	}
+}
